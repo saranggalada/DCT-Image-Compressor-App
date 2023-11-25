@@ -1,4 +1,4 @@
-MIT License
+MIT License \
 Copyright (c) 2023 Sarang Galada
 
 # DCT-Image-Compressor-App
